@@ -1,5 +1,6 @@
 # British Airways Customers Feedback and Review
-![logo-british-airways-airline-portable-network-graphics-vector-graphics-png-favpng-WBfcr8QJbAwXzverZDpjPuVM2-removebg-preview](https://github.com/tinashdj/British-Airways-Data-Science/assets/110084624/0c5eeea8-cf07-4f5c-8da4-c03b0743762e)
+![logo-british-airways-airline-portable-network-graphics-vector-graphics-png-favpng-WBfcr8QJbAwXzverZDpjPuVM2-removebg-preview](https://github.com/tinashdj/British-Airways-Data-Science/assets/110084624/c56e8a01-abaf-41ec-ba7f-19db2fd5cbba)
+
 
 British Airways (BA) is the flag carrier airline of the United Kingdom (UK). Every day, thousands of BA flights arrive to and depart from the UK, carrying customers across the world. Whether it’s for holidays, work or any other reason, the end-to-end process of scheduling, planning, boarding, fuelling, transporting, landing, and continuously running flights on time, efficiently and with top-class customer service is a huge task with many highly important responsibilities.
 
@@ -13,4 +14,6 @@ This first task is focused on scraping and collecting customer feedback and revi
 
 
 ## Tas 2 Predicting customer buying behaviour.
-<img width="620" alt="Task 2" src="https://github.com/tinashdj/British-Airways-Data-Science/assets/110084624/568012a6-5c53-46a6-94ca-f759533cfb4c">
+
+<img width="1300" alt="Task 2" src="https://github.com/tinashdj/British-Airways-Data-Science/assets/110084624/21793500-7d42-4baf-b626-736b1608b604">
+
