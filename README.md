@@ -13,7 +13,7 @@ This first task is focused on scraping and collecting customer feedback and revi
 <img width="1300" alt="Task 1" src="https://github.com/tinashdj/British-Airways-Data-Science/assets/110084624/de8ee1b1-a71a-41c2-b809-1b73aaf93b81">
 
 
-## Tas 2 Predicting customer buying behaviour.
+## Task 2 Predicting customer buying behaviour.
 
 <img width="1300" alt="Task 2" src="https://github.com/tinashdj/British-Airways-Data-Science/assets/110084624/21793500-7d42-4baf-b626-736b1608b604">
 
