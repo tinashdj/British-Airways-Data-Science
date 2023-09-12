@@ -8,7 +8,9 @@ As a data scientist at BA, it will be your job to apply your analytical skills t
 ## Task 1 Web scraping and collecting customer feedback and reviewing data to analysing the data and present any insights.
 Customers who book a flight with BA will experience many interaction points with the BA brand. Understanding a customer's feelings, needs, and feedback is crucial for any business, including BA.
 This first task is focused on scraping and collecting customer feedback and reviewing data from a third-party source and analysing this data to present any insights you may uncover.
-<img width="619" alt="Task 1" src="https://github.com/tinashdj/British-Airways-Data-Science/assets/110084624/604bdb77-7853-4ebc-8b99-ffa5ac68ee88">
+
+<img width="1300" alt="Task 1" src="https://github.com/tinashdj/British-Airways-Data-Science/assets/110084624/de8ee1b1-a71a-41c2-b809-1b73aaf93b81">
+
 
 ## Tas 2 Predicting customer buying behaviour.
 <img width="620" alt="Task 2" src="https://github.com/tinashdj/British-Airways-Data-Science/assets/110084624/568012a6-5c53-46a6-94ca-f759533cfb4c">
